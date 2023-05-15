@@ -5,5 +5,6 @@
 Весь код был оформлен в редакторе кода __Visual Studio Code__ на операционной системе __Windows 10__.
 Для опубликования данного репозитория, ___Мне___ необходимо было установить __Git__ и зарегистрироваться на __GitHub.com__
 ___
-При этом ___Я___ уже был знаком с языками __Python__ и __Java__. С зтими языками ___Я___ работал в основном на машине __Linux (Ubuntu)__, где на __Java__, в редакторе кода __Android Studio__, было ___Мною___ создано приложение __Browsers Web TV__, которое доступно в __Google Play__ или можно посмотреть код на __GitHub__ по __ссылке:__ [https://github.com/KonstantinKuchurov/BrowsersWebTV.git](https://github.com/KonstantinKuchurov/BrowsersWebTV.git)
+___Я___ уже был знаком с языками __Python__ и __Java__. С зтими языками ___Я___ работал в основном на машине __Linux (Ubuntu)__, где на __Java__, в редакторе кода __Android Studio__, было ___Мною___ создано приложение  __Browsers Web TV__, которое доступно в __Google Play__ или можно посмотреть код на __GitHub__ по __ссылке:__ [https://github.com/KonstantinKuchurov/BrowsersWebTV.git](https://github.com/KonstantinKuchurov/BrowsersWebTV.git)
+
 Это пробное приложение состоит из простого списка существующих ___браузеров.___ 
