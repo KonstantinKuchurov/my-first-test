@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\kuchu\\OneDrive\\my-first-test\\my-first-test\\index.html"
+            "file": "c:\\Users\\kuchu\\OneDrive\\my-first-test\\index.html"
         }
     ]
 }
