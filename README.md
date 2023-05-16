@@ -19,6 +19,6 @@ __Скриншоты:__
 ***
 __Email для связи:__
 
-[c.o.c.k.s@mail.ru](c.o.c.k.s@mail.ru)
+<c.o.c.k.s@mail.ru>
 
-[kuchurov.kostya@gmail.com](kuchurov.kostya@gmail.com)
+<kuchurov.kostya@gmail.com>
