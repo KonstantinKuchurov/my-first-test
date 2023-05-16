@@ -11,3 +11,4 @@ __Скриншот страницы:__
 ***
 Мне уже были знакомы языки __Python__ и __Java__. С зтими языками ___Я___ работал в основном на машине __Linux (Ubuntu)__, где на __Java__, в редакторе кода __Android Studio__, было ___Мною___ создано приложение   __Browsers Web TV__, которое доступно в __Google Play__ или можно посмотреть код на __GitHub__ по __ссылке:__ [https://github.com/KonstantinKuchurov/BrowsersWebTV.git](https://github.com/KonstantinKuchurov/BrowsersWebTV.git)  
 Это пробное приложение состоит из простого списка существующих ___браузеров.___
+![Скриншот_1](screenshot_1.png) ![Скриншот_2](screenshot_2.png)
